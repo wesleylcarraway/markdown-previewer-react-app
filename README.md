@@ -1,3 +1,5 @@
-# react-qvkhdt
+# markdown-previewer-react-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-qvkhdt)
+A markdown previewer app, was imported the Marked library for this (https://cdnjs.com/libraries/marked).
+
+<p>Application Url: </p>https://stackblitz.com/edit/react-qvkhdt?file=src/Components/Previewer.js
