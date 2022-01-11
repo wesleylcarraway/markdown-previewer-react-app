@@ -1,5 +1,5 @@
 import React from 'react';
-import './Editor.css';
+import './index.css';
 
 export default (props) => {
   return (

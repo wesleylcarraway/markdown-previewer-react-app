@@ -1,5 +1,5 @@
 import React from 'react';
-import './Previewer.css';
+import './index.css';
 
 export default (props) => {
   const marked = require('marked');
